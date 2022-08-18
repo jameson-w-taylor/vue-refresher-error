@@ -1,0 +1,7 @@
+{
+  "name": "pull-to-refresh",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
